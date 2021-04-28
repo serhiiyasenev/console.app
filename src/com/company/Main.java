@@ -15,5 +15,6 @@ public class Main {
 
         double result = rate * sum;
         System.out.println("Result: " + result);
+		
     }
 }
